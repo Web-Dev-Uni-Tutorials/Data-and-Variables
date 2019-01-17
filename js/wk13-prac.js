@@ -6,7 +6,7 @@ b)	Modify the program so that instead of a console.log(), it changes the backgro
 
 /*
 2.	Write a JavaScript program that will 
-a)	Ask the user for two numbers, calculates the total of the two numbers and displays the total for the user. 
+a)	Ask the user for two numbers, calculate the total of the two numbers and display the total for the user. 
 b)	Modify the above code so that will work out the average of these two scores and display this value for the user.
 */
 
@@ -15,7 +15,7 @@ b)	Modify the above code so that will work out the average of these two scores a
 */
 
 /*
-4.	Create a 'design a page' application. A series of prompt boxes should ask the user for two colours, and their favourite font .  The content of the page should then be displayed in the user’s choice of colour and font. The background colour of the page should be change to the user’s second choice of colour. 
+4.	Create a 'design a page' application. A series of prompt boxes should ask the user for two colours, and their favourite font.  The content of the page should then be displayed in the user’s choice of colour and font. The background colour of the page should be change to the user’s second choice of colour. 
 */
 
 /*
