@@ -3,18 +3,19 @@
 a) Add another line of code that will prompt the user for their favourite colour. Change the console.log statement so that it also displays the user's choice of colour e.g. 'Your name is Matthew. Your favourite colour is red'.
 b) Add another line of code changes the background colour of the page to the colour the user has chosen.
 */
+
 const userName=prompt("What is your name?");
 console.log(`Your name is ${userName}.`);
 
 /*
-2. The following JavaScript program asks the user for two numbers and outputs them using a console.log
+2. The following JavaScript program asks the user for two numbers and outputs them using a console.log. Uncomment the program by removing the two forward slashes at the start of each line. Run the program in a browser to check it works. 
 a) Modify this program so that it calculates the total of the two numbers, and displays the total for the user using a console.log().
 b) Add some additional code so that will calculate the average of these two numbers and display this for the user.
 */
 
-const num1=parseInt(prompt("Tell me a number?"));
-const num2=parseInt(prompt("Tell me another number"));
-console.log(`You entered ${num1} and ${num2}.`)
+// const num1=parseInt(prompt("Tell me a number?"));
+// const num2=parseInt(prompt("Tell me another number"));
+// console.log(`You entered ${num1} and ${num2}.`)
 
 /*
 3. Write a program that will convert a measurement in inches to centimetres (1 inch is 2.54 centimetres).
