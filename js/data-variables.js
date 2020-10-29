@@ -6,7 +6,6 @@ b) Add another line of code changes the background colour of the page to the col
 const userName=prompt("What is your name?");
 console.log(`Your name is ${userName}.`);
 
-
 /*
 2. The following JavaScript program asks the user for two numbers and outputs them using a console.log
 a) Modify this program so that it calculates the total of the two numbers, and displays the total for the user using a console.log().
