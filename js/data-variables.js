@@ -1,7 +1,7 @@
 /*
 1. The following JavaScript program prompts the user for their name and then displays the user's name using a console.log().
 a) Add another line of code that will prompt the user for their favourite colour. Change the console.log statement so that it also displays the user's choice of colour e.g. 'Your name is Matthew. Your favourite colour is red'.
-b) Add another line of code changes the background colour of the page to the colour the user has chosen.
+b) Add another line of code that will change the background colour of the page to the colour the user has chosen.
 */
 
 const userName=prompt("What is your name?");
