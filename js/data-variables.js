@@ -37,7 +37,7 @@ console.log(`Your name is ${userName}.`);
 
 //What is your HTML assessment score? 56
 //What is your JavaScript assessment score? 42
-//Your overall mark for the module is 47
+//Your overall mark for the module is 48
 
 //Have a look on https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Global_Objects/Math/round for information on how to round numbers.
 
